@@ -6,7 +6,7 @@ package penjadwalanjaga;
 
 /**
  *
- * @author BeliaSls
+ * @author BeliaSlshahhahahhaaaaaaaaaaaa
  */
 public class HomePetugas extends javax.swing.JFrame {
 
