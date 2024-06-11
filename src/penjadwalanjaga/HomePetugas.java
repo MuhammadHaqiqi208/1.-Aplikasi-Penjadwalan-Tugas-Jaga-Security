@@ -13,7 +13,7 @@ public class HomePetugas extends javax.swing.JFrame {
     /**
      * Creates new form HomePetugas
      */
-    public HomePetugas() {
+    public HomePetugas () {
         initComponents();
     }
 
